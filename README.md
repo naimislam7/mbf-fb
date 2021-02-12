@@ -8,5 +8,9 @@ $ python run.py
 ```
 # THANKS TO
 ```
-Allah Swt | Rizky ID | Khairul | Nanta XE
+Allah Swt | Rizky ID | Khairul Syabana | Nanta XE
+```
+# Support
+```
+Khairul Syabana:'v
 ```
